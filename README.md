@@ -75,9 +75,9 @@ Youth-led climate action initiative focused on:
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: *(add later)*
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(optional)*
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/
+- 📧 Email: agyemanggideon036@gmail.com
 
 ---
 
