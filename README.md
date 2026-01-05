@@ -7,6 +7,7 @@
 
 I’m a **BSc Aquaculture & Water Resources Management graduate** working at the intersection of **environmental research, climate action, and technology**.  
 I build **data-driven platforms** for sustainability, lead **youth climate initiatives**, and conduct **applied ecological research** in Ghana.
+I'm also a self taught **Fullstack developer** in some few frameworks and I aspire to being a software developer in my field to create solutions to some pertinent issues.
 
 ---
 
@@ -36,9 +37,9 @@ I build **data-driven platforms** for sustainability, lead **youth climate initi
 ---
 
 ### 💌 Contact
-- 📧 Email: *available on request*
-- 💼 LinkedIn: *add your profile link*
-- 🌐 Portfolio / Website: *optional*
+- 📧 Email: *agyemanggideon036@mail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/*
+- 🌐 Portfolio / Website: *Under Build*
 
 ---
 
@@ -88,4 +89,4 @@ I build **data-driven platforms** for sustainability, lead **youth climate initi
 
 ---
 
-👉 **More projects and impact coming soon.**
+👉 **I am open to interning with some IT firms to gain more relevant skills.**
