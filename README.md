@@ -1,92 +1,112 @@
-## 👋 Hi, I’m **Gideon Osei Agyemang** — Environmental Scientist • Climate Innovator • Full-Stack Builder 🌍💻
+# Gideon Osei Agyemang
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/))
-[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail&logoColor=white)](mailto:agyemanggideon036@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0a66c2?style=flat&logo=vercel&logoColor=white)](#)
-[![Grant%20Recipient](https://img.shields.io/badge/-Grant%20Recipient-success?style=flat&logo=leaflet&logoColor=white)](https://www.explorers.org/grants/the-exploration-fund-grant/)
+**Environmental Scientist · Climate Innovator · Full-Stack Developer**
 
-I’m a **BSc Aquaculture & Water Resources Management graduate** working at the intersection of **environmental research, climate action, and technology**.  
-I build **data-driven platforms** for sustainability, lead **youth climate initiatives**, and conduct **applied ecological research** in Ghana.
-I'm also a self taught **Fullstack developer** in some few frameworks and I aspire to being a software developer in my field to create solutions to some pertinent issues.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:agyemanggideon036@gmail.com)
+[![Explorers Club Grant](https://img.shields.io/badge/Explorers%20Club-Grant%20Recipient-1a6b3c?style=flat)](https://www.explorers.org/grants/the-exploration-fund-grant/)
+[![Bloomberg YCAF](https://img.shields.io/badge/Bloomberg%20YCAF-Grantee-0066CC?style=flat)](https://www.bloomberg.org/environment/supporting-sustainable-cities/bloomberg-global-business-cities-initiative/youth-in-climate-action-fund/)
 
 ---
 
-### 🌱 What I’m currently working on
-- Building **Vetra**, an e-commerce platform very unique on it own. Any Collaborations are welcome.
-- Research on **membrane technology** for treating **pharmaceutical & heavy-metal contaminated wastewater**
-- Scaling **Dabethon Global**, a youth climate action organisation focused on **waste-to-resource solutions**
-- Developing **full-stack applications** with **React, TypeScript & Node.js**
+BSc Aquaculture & Water Resources Management graduate building at the intersection of environmental science and technology. I create data-driven platforms for sustainability, conduct applied ecological research, and lead youth climate initiatives in Ghana.
+
+Currently developing **Vetra** — a full-stack aquaculture and fisheries marketplace platform that connects fish farmers, buyers, consultants, and logistics providers across Ghana.
 
 ---
 
-### 🔥 Highlights & Impact
-- 🏆 **Bloomberg Philanthropies – Youth in Climate Action Fund (YCAF) grantee**
-- 🏆 **Explorers Club Grant recipient**
-- 🐟 Research experience in **aquaculture systems, invasive species, eDNA & fisheries assessment**
-- ✍🏽 Strong background in **grant writing, science communication & stakeholder engagement**
+## What I'm building
+
+### Vetra — Aquaculture & Fisheries Marketplace
+A production-grade, multi-role marketplace platform purpose-built for Ghana's fisheries sector.
+
+- **Flutter** mobile app with BLoC state management, GoRouter, and role-based UX for 4 distinct user types: Buyer, Seller, Consultant, Logistics Provider
+- **Laravel 11** REST API backend with PostgreSQL, Laravel Sanctum bearer-token auth, and a full escrow system
+- Multi-tier **KYC verification** system with document upload and progressive operational limits per tier
+- **Escrow-based payment flow** with 8% seller commission and 10% consultant commission, enforced at the API level via a shared `CommissionService`
+- Real-time **chat**, notifications, disputes, consultant session booking, logistics delivery tracking, and in-app withdrawal flows supporting MTN MoMo, Telecel Cash, AirtelTigo, and bank transfer
+- Backend fully structured across 11 API slices: auth, profiles, listings, orders, sessions, withdrawals, reviews, chat, notifications, disputes, and logistics
+
+### Research Projects
+- **Membrane Bioreactor (MBR) wastewater treatment** — pharmaceutical and heavy-metal contaminated effluent
+- **White-naped Mangabey (*Cercocebus lunulatus*) conservation** — Atewa Forest, Ghana
+- **Galamsey (illegal mining) environmental impact modelling** and land reclamation strategies
+- **eDNA-based fisheries assessment** and invasive species detection
 
 ---
 
-### 📚 Research & Projects
-- **Vetra Platform** — Aquaculture & Fisheries e-commerce + consultancy (React, Node.js, PostgreSQL)
-- **White-naped Mangabey (Cercocebus lunulatus) Conservation Proposal** — Atewa Forest, Ghana
-- **Illegal Mining (Galamsey) Environmental Impact & Land Reclamation Models**
-- **Wastewater Treatment using MBR & Natural Filtration Systems**
+## Technical skills
+
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### Architecture & Patterns
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=flat&logo=flutter&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Sanctum Auth](https://img.shields.io/badge/Sanctum%20Auth-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### Data & Research Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 💌 Contact
-- 📧 Email: *agyemanggideon036@mail.com*
-- 💼 LinkedIn: *https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/*
-- 🌐 Portfolio / Website: *Under Build*
+## Recognition & grants
+
+| Award | Organisation | Year |
+|---|---|---|
+| Youth in Climate Action Fund (YCAF) | Bloomberg Philanthropies | 2024 |
+| Exploration Fund Grant | The Explorers Club | 2024 |
 
 ---
 
-## 🧰 Technologies I use & learn with
+## Background
 
-### 🧑🏽‍💻 Programming & Data
-[![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)]
-[![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)]
-[![R](https://img.shields.io/badge/-R-eee?style=flat-square&logo=r&logoColor=276dc3)]
+My work spans three overlapping areas.
 
----
+**Environmental research** — aquaculture systems design and management, invasive species ecology, eDNA sampling and analysis, wastewater treatment using membrane bioreactor and natural filtration systems, and land use change assessment from illegal artisanal mining.
 
-### 🌍 Environmental & Research Tools
-[![QGIS](https://img.shields.io/badge/-QGIS-eee?style=flat-square&logo=qgis&logoColor=589632)]
-[![eDNA](https://img.shields.io/badge/-eDNA-eee?style=flat-square&logo=dna&logoColor=000)]
-[![Statistics](https://img.shields.io/badge/-Statistics-eee?style=flat-square&logo=databricks&logoColor=FF3621)]
+**Climate action and leadership** — founder of Dabethon Global, a youth climate action organisation focused on waste-to-resource solutions. Experience in grant writing, science communication, and stakeholder engagement across NGO, academic, and government sectors.
+
+**Software development** — self-taught full-stack developer building production applications with Flutter, Laravel, React, and PostgreSQL. Focused on creating technology solutions for the agriculture, fisheries, and environmental sectors where digital infrastructure remains underdeveloped.
 
 ---
 
-### ⚛️ Frontend
-[![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)]
-[![Next.js](https://img.shields.io/badge/-Next.js-eee?style=flat-square&logo=nextdotjs&logoColor=000)]
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-eee?style=flat-square&logo=tailwindcss&logoColor=06B6D4)]
+## Open to
+
+- 🤝 **Collaborations** on Vetra or other agri-tech and aquaculture platforms
+- 💼 **Software engineering internships** to develop professional industry experience
+- 🌱 **Angel investment** in Vetra — addressing a real gap in Ghana's fisheries and aquaculture digital economy
+- 🔬 **Research partnerships** in environmental science, eDNA, or sustainable aquaculture
 
 ---
 
-### 🧠 Backend & Databases
-[![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js&logoColor=339933)]
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)]
-[![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)]
-[![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]
+## Contact
 
----
-
-### 🛠️ Tools & Workflow
-[![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
-[![Linux](https://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]
-[![VS%20Code](https://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]
-
----
-
-### 🌍 Beyond Code
-- Climate advocacy & youth leadership  
-- Science communication & public engagement  
-- Sustainable agriculture & aquaculture innovation  
-
----
-
-👉 **I am open to interning with some IT firms to gain more relevant skills.**
-👉 **I am open to angel investors who want to invest in a new market trend in fisheries and aquaculture**
+| | |
+|---|---|
+| Email | agyemanggideon036@gmail.com |
+| LinkedIn | [gideon-osei-agyemang](https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/) |
+| Portfolio | Under construction |
